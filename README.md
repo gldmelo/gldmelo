@@ -20,7 +20,7 @@ Reach me on:
 
 
 #### CultureInfo("pt-BR")
-Sou Cientista da Computação formado pela PUCRS. Entusiasta de computadores de jogos desde a infância, atuo profissionalmente como desenvolvedor full stack desde 2007 utilizando primariamente a linguagem C#. Dentre minhas habilidades estão a paixão na criação de sistemas web e análise de dados que resolvem problemas de negócio nas empresas onde atuei. 
+Sou Cientista da Computação formado pela PUCRS. Entusiasta de computadores e jogos desde a infância, atuo profissionalmente como desenvolvedor full stack desde 2007 utilizando primariamente a linguagem C#. Dentre minhas habilidades estão a paixão na criação de sistemas web e análise de dados que resolvem problemas de negócio nas empresas onde atuei. 
 
 <!--
 **gldmelo/gldmelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
