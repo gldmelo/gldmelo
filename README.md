@@ -17,7 +17,7 @@ Reach me on:
 ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=plastic&logo=microsoft&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=plastic&logo=visual-studio&logoColor=white)
 
-
+<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=gldmelo&layout=compact">
 
 #### CultureInfo("pt-BR")
 Sou Cientista da Computação formado pela PUCRS. Entusiasta de computadores e jogos desde a infância, atuo profissionalmente como desenvolvedor full stack desde 2007 utilizando primariamente a linguagem C#. Dentre minhas habilidades estão a paixão na criação de sistemas web e análise de dados que resolvem problemas de negócio nas empresas onde atuei. 
